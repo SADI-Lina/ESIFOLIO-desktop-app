@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 00:12:52 GMT+01:00 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1653347572011
+https\://repo.itextsupport.com/releases/.error=Could not transfer artifact com.itextpdf\:io\:jar\:7.2.2 from/to itext-releases (https\://repo.itextsupport.com/releases)\: transfer failed for https\://repo.itextsupport.com/releases/com/itextpdf/io/7.2.2/io-7.2.2.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.itextpdf\:io\:jar\:7.2.2 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/itextpdf/io/7.2.2/io-7.2.2.jar
+@default-itext-releases-https\://repo.itextsupport.com/releases/.lastUpdated=1653347513776

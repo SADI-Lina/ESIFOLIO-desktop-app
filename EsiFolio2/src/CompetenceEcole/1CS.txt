@@ -1,0 +1,73 @@
+$ANUM$
+C21.1: Exploiter les méthodes numériques pour modéliser des systèmes complexes linéaires non linéraires
+C21.2: Programmer des méthodes numériques pour modéliser des systèmes complexes
+$ARCH$
+C78.3: Développer des programmes performants sur des architectures parallèles et avancées
+C78.4: Analyser les types d'architectures parallèles et identifier les différents niveaux de parallélisme dans les architectures
+C78.2: Déterminer les types de mécanismes d’accélérations permettant d’améliorer les performances des programmes
+C78.5: Exploiter diverses API pour mettre en oeuvre des programmes parallèles
+C78.1: Evaluer l'impact des choix d’architectures générales et spécialisées sur l'exécution d'un programme
+$BDD$
+C51.1: Concevoir une Base de Données relationnelle
+C51.2: Utiliser SQL pour définir et manipuler des données relationnelles
+C51.4: Traduire un modèle entité/association vers un schéma relationnel, le normaliser et le manipuler avec l'algèbre relationnelle.
+$CPROJ$
+C92.1: Planifier un projet (Diagramme Gantt prévu et réel)
+C92.4: Exploiter un outil de gestion de projet afin de quantifier les ressources en temps, matériels, moyens humains et en financement
+C92.5: Planifier des plans de secours afin de prendre en charge les risques entourant un projet
+$IGL$
+C11.1: Exploiter un formalisme de rédaction de spécifications fonctionelles et techniques
+C42.1: Appliquer une méthodologie pendant le cycle de développement logiciel
+C42.7: Mettre en œuvre les tests fonctionnels pour la qualité des logiciels
+C40.9: Concevoir et programmer une application avec un langage orienté objet
+C41.1: Proposer une conception orientée objet pour un problème métier
+C41.2: Modéliser une conception orientée objet en utilisant le diagramme de classes UML
+C41.5: Proposer et mettre en œuvre une architecture à partir de styles architecturaux existants
+C41.6: Proposer et mettre en œuvre des architectures à base de services et de micro-services
+$LANG1$
+C95.1: Acquérir le vocabulaire de l`anglais spécifique à l`informatique
+C95.2: Organiser et participer avec succès à un entretien d`embauche
+C95.3: Rédiger efficacement en anglais : Courriels, CV, articles scientifiques, etc.
+C95.6: S’exprimer correctement, en considérant le niveau de maitrise de la langue
+$LANG2$
+C95.1: Acquérir le vocabulaire de l`anglais spécifique à l`informatique
+C95.3: Rédiger efficacement en anglais : Courriels, CV, articles scientifiques, etc.
+C95.6: S’exprimer correctement, en considérant le niveau de maitrise de la langue
+$MCSI$
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+C32.1: Analyser un système d'information selon une démarche systémique
+C32.2: Concevoir un système d'information en considérant les objectifs métiers selon une méthodologie
+$ORG$
+C31.1: Analyser les organisations et fonctions de l'entreprise
+C31.2: Analyser le fonctionnement d'un processus métier
+$PROJ$
+C92.2: Rédiger des livrables (résultats) intermédiaires et livrable final de qualité
+C92.4: Exploiter un outil de gestion de projet afin de quantifier les ressources en temps, matériels, moyens humains et en financement
+C92.5: Planifier des plans de secours afin de prendre en charge les risques entourant un projet
+C93.1: Concevoir un système implémentant des fonctionnalités selon un cahier de charge
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.3: Valoriser le produit réalisé durant une démonstration
+$RES1$
+C71.1: Analyser les fonctions d'un réseau local
+C71.2: Mettre en oeuvre et configurer un réseau local
+$RES2$
+C74.0: Identifier et analyser les protocoles et architecture d'Internet
+C71.3: Configurer et administrer un réseau informatique
+$RO$
+C22.1: Exploiter la théorie des graphes pour modéliser un système de systèmes complexe
+C22.2: Exploiter la programmation linéaire pour modéliser et chercher une solution à un problème
+$SEC$
+C72.2: Sécuriser un système informatique
+C72.1: Analyser les menaces et les vulnérabilités d'un système
+C72.3: Identifier les mécanismes cryptographiques permettant d'assurer des services de sécurité requis
+C72.4: Exploiter des outils logiciels pour mettre en oeuvre des mécanismes de sécurité de données
+$SYS1$
+C77.1: Analyser les fonctions d'un systèmes d'exploitation
+C77.2: Exploiter les fonctions d'un système d'exploitation multi-tâches par la programmation
+C73.6: Analyser les mécanismes de base permettant à un ordinateur de communiquer (entrées/sortes, interruptions)
+$SYS2$
+C77.1: Analyser les fonctions d'un systèmes d'exploitation
+C77.3: Exploiter les fonctions de gestion de la mémoire virtuelle et de stockage dans un système multi-programmé
+$THP$
+C44.1: Effectuer une analyse lexicale et syntaxique d'un langage
+C44.2: Exploiter un outil de génération d'analyseur syntaxique et lexical en vue de concevoir un langage

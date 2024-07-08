@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.collections.FXCollections?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.shape.QuadCurve?>
+<?import javafx.scene.shape.Rectangle?>
+<?import javafx.scene.text.Font?>
+
+<HBox prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: WHITE;" stylesheets="@app.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.esifolio2.CreerProjetEcoleControleur">
+    <VBox alignment="TOP_CENTER" maxWidth="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="240.0">
+        <VBox prefHeight="30.0" prefWidth="240.0" />
+        <HBox alignment="CENTER" prefHeight="42.0" prefWidth="240.0">
+            <Label onMouseClicked="#goToAccueil" text="ESI">
+                <font>
+                    <Font name="Ailerons" size="40.0" />
+                </font>
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+            </Label>
+            <HBox prefHeight="58.0" prefWidth="10.0" />
+            <Label onMouseClicked="#goToAccueil" text="FOLIO">
+                <font>
+                    <Font name="Ailerons" size="40.0" />
+                </font>
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+            </Label>
+        </HBox>
+        <Line endX="80.0" startX="-80.0" stroke="#6f39b6" />
+        <VBox prefHeight="45.0" prefWidth="240.0" />
+        <HBox>
+            <StackPane>
+                <HBox prefHeight="32.0" prefWidth="200.0">
+                    <Rectangle arcHeight="10.0" fill="#6d3ab559" height="32.0" stroke="BLACK" strokeLineCap="ROUND" strokeType="INSIDE" strokeWidth="0.0" width="210.0" />
+                    <QuadCurve controlX="-74.66670227050781" controlY="-73.60706329345703" endX="-98.66670227050781" endY="-89.60706329345703" fill="#6d3ab559" startX="-98.66670227050781" startY="-57.60706329345703" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+                </HBox>
+                <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+                    <VBox prefHeight="200.0" prefWidth="40.0" />
+                    <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToProjets">
+                        <cursor>
+                            <Cursor fx:constant="HAND" />
+                        </cursor>
+                        <Image url="@images/IconeProjetViolet.png" />
+                    </ImageView>
+                    <HBox prefHeight="20.0" prefWidth="12.0" />
+                    <Label onMouseClicked="#goToProjets" text="Projets" textFill="#6f39b6">
+                        <font>
+                            <Font name="Comfortaa Medium" size="18.0" />
+                        </font>
+                        <cursor>
+                            <Cursor fx:constant="HAND" />
+                        </cursor>
+                    </Label>
+                </HBox>
+            </StackPane>
+        </HBox>
+        <VBox prefHeight="22.0" prefWidth="240.0" />
+        <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+            <VBox prefHeight="200.0" prefWidth="40.0" />
+            <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToCompetences">
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+                <Image url="@images/IconeCompétences.png" />
+            </ImageView>
+            <HBox prefHeight="20.0" prefWidth="12.0" />
+            <Label onMouseClicked="#goToCompetences" text="Compétences">
+                <font>
+                    <Font name="Comfortaa Medium" size="18.0" />
+                </font>
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+            </Label>
+        </HBox>
+        <VBox prefHeight="22.0" prefWidth="240.0" />
+        <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+            <VBox prefHeight="200.0" prefWidth="40.0" />
+            <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToPortfolio">
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+                <Image url="@images/IconePortfolio.png" />
+            </ImageView>
+            <HBox prefHeight="20.0" prefWidth="12.0" />
+            <Label onMouseClicked="#goToPortfolio" text="Portfolio">
+                <font>
+                    <Font name="Comfortaa Medium" size="18.0" />
+                </font>
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+            </Label>
+        </HBox>
+        <VBox prefHeight="22.0" prefWidth="240.0" />
+        <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+            <VBox prefHeight="200.0" prefWidth="40.0" />
+            <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToStats">
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+                <Image url="@images/IconeStat.png" />
+            </ImageView>
+            <HBox prefHeight="20.0" prefWidth="12.0" />
+            <Label onMouseClicked="#goToStats" text="Statistiques">
+                <font>
+                    <Font name="Comfortaa Medium" size="18.0" />
+                </font>
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+            </Label>
+        </HBox>
+        <VBox prefHeight="212.0" prefWidth="240.0" />
+        <Label onMouseClicked="#goToContactezNous" text="Contactez-nous" textFill="#777777">
+            <font>
+                <Font name="Comfortaa SemiBold" size="16.0" />
+            </font>
+            <cursor>
+                <Cursor fx:constant="HAND" />
+            </cursor>
+        </Label>
+        <VBox prefHeight="30.0" prefWidth="240.0" />
+    </VBox>
+    <Line startY="600.0" stroke="#ababab" />
+    <VBox prefHeight="200.0" prefWidth="660.0">
+        <VBox maxHeight="-Infinity" minHeight="-Infinity" prefHeight="28.0" prefWidth="660.0" />
+        <HBox alignment="CENTER_RIGHT" spacing="20.0">
+            <padding>
+                <Insets right="40.0" />
+            </padding>
+            <Label fx:id="nomPrenoms" onMouseClicked="#goToModifierInfo" text="Nom Prénoms" textFill="#777777">
+                <font>
+                    <Font name="Comfortaa SemiBold" size="18.0" />
+                </font>
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+            </Label>
+            <ImageView fitHeight="58.0" fitWidth="56.0" onMouseClicked="#goToModifierInfo">
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+                <Image url="@images/Profile.png" />
+            </ImageView>
+        </HBox>
+        <VBox prefHeight="28.0" prefWidth="660.0" />
+        <VBox maxHeight="-Infinity" minHeight="-Infinity" prefHeight="452.0" prefWidth="660.0">
+            <HBox alignment="CENTER_LEFT" prefHeight="48.0" prefWidth="660.0">
+                <padding>
+                    <Insets left="40.0" />
+                </padding>
+                <Label text="Nouveau projet" textFill="#6f39b6">
+                    <font>
+                        <Font name="Comfortaa Bold" size="22.0" />
+                    </font>
+                </Label>
+            </HBox>
+            <VBox prefHeight="17.0" prefWidth="660.0" />
+            <HBox alignment="CENTER_LEFT" prefHeight="38.0" prefWidth="660.0" spacing="30.0">
+                <padding>
+                    <Insets left="50.0" />
+                </padding>
+                <Button maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" mnemonicParsing="false" onAction="#retourClicked" prefHeight="45.0" prefWidth="45.0" style="-fx-border-radius: 9; -fx-background-radius: 9; -fx-background-color: white;">
+                    <graphic>
+                        <ImageView fitHeight="45.0" fitWidth="45.0" pickOnBounds="true" preserveRatio="true">
+                            <Image url="@images/Retour.png" />
+                        </ImageView>
+                    </graphic>
+                    <cursor>
+                        <Cursor fx:constant="HAND" />
+                    </cursor>
+                </Button>
+            </HBox>
+            <VBox prefHeight="45.0" prefWidth="660.0" />
+            <HBox alignment="CENTER_LEFT" prefHeight="38.0" prefWidth="660.0" spacing="30.0">
+                <padding>
+                    <Insets left="60.0" />
+                </padding>
+                <VBox alignment="CENTER_LEFT" prefHeight="200.0" prefWidth="140.0">
+                    <Label text="Année d'étude">
+                        <font>
+                            <Font name="Comfortaa SemiBold" size="17.0" />
+                        </font>
+                    </Label>
+                </VBox>
+                <ComboBox fx:id="annee" onAction="#anneeClicked" prefHeight="32.0" prefWidth="350.0" promptText="Année d'étude" styleClass="list-cell" stylesheets="@combobox.css">
+                    <items>
+                        <FXCollections fx:factory="observableArrayList">
+                            <String fx:value="1CP" />
+                            <String fx:value="2CP" />
+                            <String fx:value="1CS" />
+                            <String fx:value="2CSSQ" />
+                            <String fx:value="2CSSL" />
+                            <String fx:value="2CSSD" />
+                            <String fx:value="2CSST" />
+                            <String fx:value="3CS" />
+                            <String fx:value="Master" />
+                        </FXCollections>
+                    </items>
+                </ComboBox>
+            </HBox>
+            <VBox prefHeight="30.0" prefWidth="100.0" />
+            <HBox alignment="CENTER_LEFT" prefHeight="38.0" prefWidth="660.0" spacing="30.0">
+                <padding>
+                    <Insets left="60.0" />
+                </padding>
+                <VBox alignment="CENTER_LEFT" prefHeight="200.0" prefWidth="140.0">
+                    <Label text="Module">
+                        <font>
+                            <Font name="Comfortaa SemiBold" size="17.0" />
+                        </font>
+                    </Label>
+                </VBox>
+                <ComboBox fx:id="module" disable="true" prefHeight="32.0" prefWidth="350.0" promptText="Module" styleClass="list-cell" stylesheets="@combobox.css" />
+            </HBox>
+         <HBox prefHeight="30.0" prefWidth="200.0" />
+            <HBox alignment="CENTER_RIGHT" prefHeight="40.0" prefWidth="660.0">
+                <padding>
+                    <Insets right="67.0"/>
+                </padding>
+                <Label fx:id="erreur" textFill="RED">
+                    <font>
+                        <Font name="Comfortaa SemiBold" size="13.0"/>
+                    </font>
+                </Label>
+                <VBox prefHeight="40.0" prefWidth="155.0"/>
+                <Button fx:id="bouttonSuivant" mnemonicParsing="false" onAction="#suivantClicked"
+                        onMouseEntered="#suivantSurvol" onMouseExited="#suivantMouseExited"
+                        onMousePressed="#suivantPressed" prefHeight="31.0" prefWidth="100.0"
+                        style="-fx-background-color: #6F39B6; -fx-background-radius: 10;" stylesheets="@app.css"
+                        text="Suivant" textFill="WHITE">
+                    <font>
+                        <Font name="Comfortaa Medium" size="16.0"/>
+                    </font>
+                    <cursor>
+                        <Cursor fx:constant="HAND"/>
+                    </cursor>
+                </Button>
+            </HBox>
+        </VBox>
+        <VBox alignment="CENTER_RIGHT" prefHeight="30.0" prefWidth="660.0">
+            <padding>
+                <Insets right="30.0" />
+            </padding>
+            <ImageView fitHeight="33.0" fitWidth="33.0" onMouseClicked="#goToAide">
+                <cursor>
+                    <Cursor fx:constant="HAND" />
+                </cursor>
+                <Image url="@images/Aide.png" />
+            </ImageView>
+        </VBox>
+        <VBox maxHeight="-Infinity" minHeight="-Infinity" prefHeight="29.0" prefWidth="660.0" />
+    </VBox>
+</HBox>

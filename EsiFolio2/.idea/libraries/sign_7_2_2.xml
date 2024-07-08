@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sign-7.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/com/example/esifolio2/itextpdf/sign/7.2.2/sign-7.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

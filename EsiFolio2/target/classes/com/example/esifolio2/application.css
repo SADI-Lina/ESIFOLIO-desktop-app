@@ -1,0 +1,24 @@
+.default-color0.chart-pie{
+	 -fx-pie-color: #9DE3F9; 
+}
+.default-color1.chart-pie{
+	 -fx-pie-color: #FECB7F; 
+}
+.default-color2.chart-pie{
+	 -fx-pie-color: #FDA9FE; 
+}
+
+.default-color0.chart-bar{
+-fx-bar-fill: #FDA9FE;
+}
+
+.chart-legend{
+	-fx-background-color : white ;
+	-fx-border-color: purple ;
+	-fx-border-width:1;
+	-fx-font-family:"Comfortaa";
+}
+.chart-pie-label{
+	-fx-font-size: 13;
+	-fx-font-family:"Comfortaa";
+}

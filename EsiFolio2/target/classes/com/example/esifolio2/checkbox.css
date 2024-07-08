@@ -1,0 +1,15 @@
+.check-box > .text{
+    -fx-font-family: 'Comfortaa SemiBold';
+    -fx-font-size: 14px;
+}
+
+.check-box > .box{
+    -fx-background-color: white;
+    -fx-border-color: #6F39B6;
+    -fx-border-width: 1.5;
+    -fx-border-radius: 3;
+}
+
+.check-box:selected > .box > .mark{
+    -fx-background-color: #6F39B6;
+}

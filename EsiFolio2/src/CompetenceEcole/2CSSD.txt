@@ -1,0 +1,60 @@
+$ANAD$
+C61.1: Analyser les techniques de description multidimensionnelle (réduction, visualisation, clustering,…)
+C61.2: Effectuer une modélisation statistique (régression, classification) sur une masse de données
+C63.1: Mobiliser les outils pour traiter les données et interpréter les résultats
+$BDDA$
+C51.5: Programmer avec le langage procédural SQL
+C51.6: Analyser l'architecture d'un SGBD relationnel
+C51.7: Concevoir et mettre en oeuvre des bases de données multi-dimentionnelles
+C53.1: Concevoir et mettre en oeuvre des bases de données semi-structurées
+$BI$
+C35.3: Concevoir et mettre en oeuvre des systèmes d'aide à la décision
+$CRP$
+C4A.1: Etudier les structures de données et de fichiers et analyser l’efficacité des algorithmes
+C4A.2: Etudier les classes de problèmes et les différents type de résolution de problèmes
+C64.1: Analyser des méthodes de résolution des problèmes d’optimisation combinatoire
+$HPC$
+C78.3: Développer des programmes performants sur des architectures parallèles et avancées
+C78.4: Analyser les types d'architectures parallèles et identifier les différents niveaux de parallélisme dans les architectures
+C78.5: Exploiter diverses API pour mettre en oeuvre des programmes parallèles
+$IMN$
+C24.2: Analyser les techniques de traitement d'images et de reconnaissance de formes
+C24.3: Expérimeter des techniques de traitement d'images et de reconnaissance de formes sur des problèmes concrêts
+$INFOVIS$ $IRIAD$ $MASD$ $ML$
+C62.3: Décliner les activités d'un processus d'apprentissage automatique
+C61.4: Utiliser et développer des techniques d'apprentissage automatique
+$PMSS$
+$PRJS$
+C11.1: Exploiter un formalisme de rédaction de spécifications fonctionelles et techniques
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+C13.3: Analyser un cahier de charge
+C13.4: Mettre en oeuvre les techniques de collecte des besoins
+C34.1: Analyser et articuler les types de faisabilités
+C92.1: Planifier un projet (Diagramme Gantt prévu et réel)
+C92.2: Rédiger des livrables (résultats) intermédiaires et livrable final de qualité
+C92.3: Adopter une posture professionnelle (Assuiduité & sérieux)
+C92.5: Planifier des plans de secours afin de prendre en charge les risques entourant un projet
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.3: Valoriser le produit réalisé durant une démonstration
+C42.6: Mettre en oeuvre les tests unitaires et d'intégration d'un logiciel
+C42.7: Mettre en œuvre les tests fonctionnels pour la qualité des logiciels
+$RV$ $RCR$
+C49.1: Lister les concepts fondamentaux de la réalité virtuelle et la réalité augmentée
+C49.2: Décrire le fonctionnement des dispositifs d’entrée et de sortie utilisés dans les applications de réalité virtuelle et réalité augmentée
+C49.3: Expliquer les techniques graphiques utilisées dans les applications de réalité virtuelle et réalité augmentée
+C49.4: Développer des environnements virtuels et des techniques d'interaction 3D
+$SGOV$
+C32.3: Enumérer les principaux impacts des TIC/ numérique sur les organisations
+C32.5: Enumérer et comparer les principaux scénarii de structuration des TIC dans une organisation
+C32.A1: Appréhender les enjeux des données gouvernementales ouvertes pour renforcer l’intelligence gouvernementale
+C32.A2: Analyser le potentiel du Crowdsourcing/Crowfunding pour une plus grande participation citoyenne
+$SPE$
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.5: Répondre aux questions avec aisance et précision
+C91.6: Rédiger correctement (Synthèse, clarté, lisibilité, soins de l'orthographe et grammaire)
+$TALN$
+$TOIA$
+$TSG$
+C24.1: Mettre en oeuvre les techniques et algorithme de traitement de signal

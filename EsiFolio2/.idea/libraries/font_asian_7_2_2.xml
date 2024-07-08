@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="font-asian-7.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/com/example/esifolio2/itextpdf/font-asian/7.2.2/font-asian-7.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/src/main/resources/com/example/esifolio2/itextpdf/font-asian/7.2.2/font-asian-7.2.2.jar!/" recursive="false" />
+  </library>
+</component>

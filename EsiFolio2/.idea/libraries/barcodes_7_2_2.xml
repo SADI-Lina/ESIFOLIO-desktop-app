@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="barcodes-7.2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/com/example/esifolio2/itextpdf/barcodes/7.2.2/barcodes-7.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

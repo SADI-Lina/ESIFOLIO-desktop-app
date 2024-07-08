@@ -1,0 +1,104 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--<link rel="stylesheet" href="style.css">-->
+    <title>Portfolio</title>
+    <style>
+    @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+    /* * {
+      border: 2px solid black;
+    } */
+    body {
+      box-sizing: border-box;
+      background-color: #d4c8be;
+      color: #6d412a;
+    }
+    .projet {
+      width: 90%;
+      background-color: #c4b4a7;
+      margin-left: auto;
+      margin-right: auto ;
+      margin-bottom: 20px;
+      border: #d4c8be;
+    }
+    .competence {
+        font-family: "Open Sans", sans-serif;
+        margin-left: auto;
+        margin-right: auto;
+        font-size: 17px;
+        padding-bottom: 25px;
+        gap: 10px;
+      }
+    .titre-info {
+      margin-top: 20px;
+      border: 2px solid white;
+      padding: 20px;
+      width: 30%;
+      margin: auto;
+      margin-bottom: 20px;
+      font-family: "Open Sans", sans-serif;
+      font-size: 20px;
+    }
+    .titre-projet {
+      margin-top: 20px;
+      border: 2px solid white;
+      width: 15%;
+      margin: auto;
+      padding: 20px;
+      margin-bottom: 20px;
+      font-family: "Open Sans ", sans-serif;
+      font-size: 20px;
+    }
+    li {
+      margin-bottom: 20px;
+    }
+    ul {
+        margin: auto;
+      width: 50%;
+    }
+    .descriptif {
+      line-height: 1.5;
+    }
+    .mot-descriptif {
+      font-family: "Open Sans", sans-serif;
+      font-size: 17px;
+    }
+    .mot {
+      font-family: "Open Sans", sans-serif;
+      font-size: 20px;
+    }
+    .contenu {
+      font-family: "Open Sans", sans-serif;
+      font-size: 17px;
+    }
+    img {
+      height: 15px;
+      width: auto;
+    }
+    .image_portfolio {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: 20px;
+      margin-bottom: 20px;
+      height: 300px;
+      width: auto;
+    }
+    /*.first {
+      margin-top: -20px;
+    }*/
+    h1{
+        text-align: center;
+    }
+
+                    </style>
+</head>
+<body>
+    
+    <section class="projet">
+        <img src="./images/Portfolio.svg" class="image_portfolio">
+        <h1 class="titre-info">Informations personnelles</h1>
+        <ul class="info-personnelles">
+            </div>

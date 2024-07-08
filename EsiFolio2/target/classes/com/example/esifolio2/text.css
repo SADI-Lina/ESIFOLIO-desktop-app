@@ -1,0 +1,10 @@
+
+@font-face{
+    font: 'Comfortaa Regular';
+    src: url('fonts/Comfortaa-Regular.ttf');
+}
+
+.label{
+-fx-font-family: 'Comfortaa';
+-fx-font-size: 20;
+}

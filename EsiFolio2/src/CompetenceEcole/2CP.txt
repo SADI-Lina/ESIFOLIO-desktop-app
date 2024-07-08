@@ -1,0 +1,64 @@
+$ALG3$
+C21.7: Utiliser des méthodes de résolution des EDO
+C21.8: Exploiter l'algèbre linéaire et calcul matriciel dans la méodélisation et résolution de problèmes
+$ANAL3$
+C22.6: Analyser des topologies de IR² et IR³
+C21.6: Développer en séries entières des fonctions usuelles de l’analyse dans le but de mettre en œuvre des algorithmes d’approximation des nombres
+$ANAL4$
+C21.9: Résoudre des équations à dérivées partielles
+C22.7: Analyser la géométrie des courbes et des surfaces
+C22.8: Exploiter les résultats des fonctions à plusieurs variables pour traiter certains problèmes d’optimisation sans ou avec contraintes
+$ANG2$
+C95.1: Acquérir le vocabulaire de l`anglais spécifique à l`informatique
+C95.4: Ecrire en anglais dans un style académique
+C95.5: Ecouter et inférer le sens d'un discours en anglais
+C95.6: S’exprimer correctement, en considérant le niveau de maitrise de la langue
+$ANG3$
+C95.1: Acquérir le vocabulaire de l`anglais spécifique à l`informatique
+C95.4: Ecrire en anglais dans un style académique
+C95.5: Ecouter et inférer le sens d'un discours en anglais
+C95.6: S’exprimer correctement, en considérant le niveau de maitrise de la langue
+$ARCH2$
+C73.4: Analyser les composants d'un ordinateur et leurs fonctions
+C73.7: Analyser l'exécution d'un programme en langage machine sur une architecture de Von Neumann
+C73.8: Analyser le fonctionnement de l'unité de contrôle
+C73.6: Analyser les mécanismes de base permettant à un ordinateur de communiquer (entrées/sortes, interruptions)
+C73.5: Concevoir des circuits à base de composants mémoires, dans le but de résoudre des problèmes particuliers de stockage, et de récupération de l’information
+$ECON$
+C97.4: Identifier le rôle de l'entreprise dans l'économie d'une nation
+C97.5: Analyser les missions et responsabilités de chacune des grandes fonctions (opérationnelles et de soutien) de l’entreprise
+$ELEF2$
+C23.8: Concevoir et analyser un circuit de production de signaux analogiques et numériques,
+C23.9: Concevoir et analyser des circuits d'acquisition de données
+$LOGM$
+C65.1: Exploiter une logique propositionnelle pour formaliser l'énoncé d'un problème
+C65.2: Utiliser la théorie des modèles ou de la démonstration pour montrer la satisfiabilité de l'énoncé d'un problème
+$OOE$
+C24.4: Analyser la propagation de rayons lumineux
+C24.5: Analyser des ondes életromagnétiques
+$POO$
+C40.9: Concevoir et programmer une application avec un langage orienté objet
+C48.3: Développer des interfaces graphiques avec un langage de programmation orientée objet
+C41.1: Proposer une conception orientée objet pour un problème métier
+$PRJP$
+C92.1: Planifier un projet (Diagramme Gantt prévu et réel)
+C92.2: Rédiger des livrables (résultats) intermédiaires et livrable final de qualité
+C92.3: Adopter une posture professionnelle (Assuiduité & sérieux)
+C92.6: S'organiser et travailler en équipe en vue de réaliser un projet commun
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.6: Effectuer une communication orale de qualité (prononciation, articulation, volume, débit, intonation, posture, aisance, présence)
+$PRST1$
+C61.5: Effectuer une description statiistique sur une masse de données
+C61.6: Modéliser un phénomène aléatoire avec une loi de probabilité
+$PRST2$
+C61.7: Analyser l'éspérance et la convergence d'un phénomène aléatoire
+C61.8: Interroger une population et estimer les résultats d'un sondage à partir d'un échantillon
+$SFSD$
+C40.7: Concevoir des structures de fichiers efficaces et répondant aux besoins de tout type d'applications, y compris le cas des données volumineuses et massives.
+C40.8: Identifier les différents types d’organisation des fichiers et effectuer un choix d'organisation répondant aux besoins des applications
+C4A.1: Etudier les structures de données et de fichiers et analyser l’efficacité des algorithmes
+C77.6: Différencier les technologies de stockage
+$SINF$
+C30.1: Analyser et codifier une information
+C30.2: Discérner les types de systèmes et identifier leurs fonctions
+C30.3: Discerner les types de systèmes d'information et identifier leur rôle dans l'organisation

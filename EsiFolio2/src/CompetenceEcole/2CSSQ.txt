@@ -1,0 +1,135 @@
+$AL$
+C41.4: Analyser et documenter l'architecture d'un logiciel
+C41.5: Proposer et mettre en œuvre une architecture à partir de styles architecturaux existants
+C41.6: Proposer et mettre en œuvre des architectures à base de services et de micro-services
+C41.7: Mettre en œuvre des modèles de déploiement tels que les conteneurs ou le cloud pour les architectures complexes
+$ANAD$
+C61.1: Analyser les techniques de description multidimensionnelle (réduction, visualisation, clustering,…)
+C61.2: Effectuer une modélisation statistique (régression, classification) sur une masse de données
+C63.1: Mobiliser les outils pour traiter les données et interpréter les résultats
+$BDDA$
+C51.5: Programmer avec le langage procédural SQL
+C51.6: Analyser l'architecture d'un SGBD relationnel
+C51.7: Concevoir et mettre en oeuvre des bases de données multi-dimentionnelles
+C53.1: Concevoir et mettre en oeuvre des bases de données semi-structurées
+$COM$
+C44.2: Exploiter un outil de génération d'analyseur syntaxique et lexical en vue de concevoir un langage
+C44.1: Effectuer une analyse lexicale et syntaxique d'un langage
+C44.3: Décrire et analyser la sémantique d'un langage
+C44.5: Programmer un compilateur d'un langage vers une machine cible
+C4A.3: Etudier les paradigmes de programmation et les transformations de programmes
+$COMM$
+$ENTP$
+C97.1: Adopter une posture entreprenarial
+C97.2: Exploiter des outils pour élaborer un projet d'entrepsie
+C97.3: Défendre un projet d'entreprise
+$FAS$
+C22.3: Exploiter la théorie de files d'attentes pour modéliser un système
+C22.4: Mettre en oeuvre la simulation d'un système
+$HPC$
+C78.3: Développer des programmes performants sur des architectures parallèles et avancées
+C78.4: Analyser les types d'architectures parallèles et identifier les différents niveaux de parallélisme dans les architectures
+C78.5: Exploiter diverses API pour mettre en oeuvre des programmes parallèles
+$IHM$
+C48.1: Analyser et modéliser la fonction d'interaction homme-machine
+C48.2: Concevoir, développer et évaluer des interfaces homme-machine
+$IMN$
+C24.2: Analyser les techniques de traitement d'images et de reconnaissance de formes
+C24.3: Expérimeter des techniques de traitement d'images et de reconnaissance de formes sur des problèmes concrêts
+$ML$
+C62.3: Décliner les activités d'un processus d'apprentissage automatique
+C61.4: Utiliser et développer des techniques d'apprentissage automatique
+$MSS$
+C22.4: Mettre en oeuvre la simulation d'un système
+C22.5: Exploiter la théorie des processus stochastiques pour résoudre des problèmes d'estimation, d'optimisation et d'apprentissage statistique
+$OGL$
+C42.5: Mettre en oeuvre les outils nécessaires pour automatiser les tâches répétitives du développement et faciliter le travail en équipe.
+C42.2: Mettre en oeuvre une méthodologie agile dans le développement logiciel
+C42.6: Mettre en oeuvre les tests unitaires et d'intégration d'un logiciel
+$OPT$
+C64.1: Analyser des méthodes de résolution des problèmes d’optimisation combinatoire
+C64.2: Expérimenter différentes méthodes d'optimisation pour résoudre des problèmes combinatoires
+$PRJS$
+C11.1: Exploiter un formalisme de rédaction de spécifications fonctionelles et techniques
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+C13.3: Analyser un cahier de charge
+C13.4: Mettre en oeuvre les techniques de collecte des besoins
+C34.1: Analyser et articuler les types de faisabilités
+C92.1: Planifier un projet (Diagramme Gantt prévu et réel)
+C92.2: Rédiger des livrables (résultats) intermédiaires et livrable final de qualité
+C92.3: Adopter une posture professionnelle (Assuiduité & sérieux)
+C92.5: Planifier des plans de secours afin de prendre en charge les risques entourant un projet
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.3: Valoriser le produit réalisé durant une démonstration
+C42.6: Mettre en oeuvre les tests unitaires et d'intégration d'un logiciel
+C42.7: Mettre en œuvre les tests fonctionnels pour la qualité des logiciels
+$QL$
+C42.3: Analyser les risques dans un processus de développement logiciel
+C42.4: Estimer le coût et l'effort du développement logiciel en s'appuyant sur une méthodologie
+C42.6: Mettre en oeuvre les tests unitaires et d'intégration d'un logiciel
+C42.7: Mettre en œuvre les tests fonctionnels pour la qualité des logiciels
+$RESA$
+C74.1: Analyser la fonction de routage dynamique dans Internet
+C74.2: Identifier les technologies de mise en oeuvre d'infrastructure de transport au sein d'Internet
+C74.3: Mettre en place un réseau d'opérateur basé sur la technologie MPLS et ses variantes
+C74.4: Analyser la qualité de service et les protocoles de sa mise en oeuvre dans un réseau informatique
+$RV$
+C49.1: Lister les concepts fondamentaux de la réalité virtuelle et la réalité augmentée
+C49.2: Décrire le fonctionnement des dispositifs d’entrée et de sortie utilisés dans les applications de réalité virtuelle et réalité augmentée
+C49.3: Expliquer les techniques graphiques utilisées dans les applications de réalité virtuelle et réalité augmentée
+C49.4: Développer des environnements virtuels et des techniques d'interaction 3D
+$SCI$
+$SIG$
+C33.1: Effectuer une analyse spaciale des données géographiques
+C33.2: Mettre en oeuvre l’acquisition, l’organisation et le stockage des images spatiales, satellitaires ou collectées sur le terrain.
+C33.3: Modéliser les données géo-spatiales en 2D et 3D pour l’aide à la décision
+$SIGA$
+C33.1: Effectuer une analyse spaciale des données géographiques
+C33.2: Mettre en oeuvre l’acquisition, l’organisation et le stockage des images spatiales, satellitaires ou collectées sur le terrain.
+C33.3: Modéliser les données géo-spatiales en 2D et 3D pour l’aide à la décision
+$SPE$
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.5: Répondre aux questions avec aisance et précision
+C91.6: Rédiger correctement (Synthèse, clarté, lisibilité, soins de l'orthographe et grammaire)
+$SSR$
+C72.2: Sécuriser un système informatique
+C72.1: Analyser les menaces et les vulnérabilités d'un système
+C72.3: Identifier les mécanismes cryptographiques permettant d'assurer des services de sécurité requis
+C72.4: Exploiter des outils logiciels pour mettre en oeuvre des mécanismes de sécurité de données
+C72.5: Identifier des protocoles de communication sécurisée en réponse à une politique de sécurité
+C72.6: Configurer un pare-feu pour mettre en oeuvre une politique de sécurité et de protection
+$SYSE$
+C75.1: Identifier et analyser les composants et couches d'un système embarqué
+C75.2: Analyser les contraintes des systèmes temps-réels et embarqués
+C75.3: Concevoir, développer et utiliser : des logiciels embarqués, des applicatifs temps réel et des systèmes embarqués en utilisant une méthodologie unifiée.
+C75.4: Concevoir des applications simples et les embarquer sur des circuits reconfigurables (FPGA)
+$SYSR$
+C76.1: Différencier un système réparti d'un système centralisé et analyser ses fonctions
+C76.2: Concevoir des applications réparties et mobiliser des algorithmes et API pour les mettre en oeuvre
+$TDM$
+C47.1: Analyser un système d'exploitation mobile et son environnement de développement
+C47.2: Exploiter un langage de programmation pour le développement d'une application mobile
+C47.3: Concevoir et implémenter une application mobile interactive et multimédias
+C47.4: Concevoir et implémenter une application mobile manipulant des données
+$TDM1$
+C47.1: Analyser un système d'exploitation mobile et son environnement de développement
+C47.2: Exploiter un langage de programmation pour le développement d'une application mobile
+$TDM2$
+C47.3: Concevoir et implémenter une application mobile interactive et multimédias
+C47.4: Concevoir et implémenter une application mobile manipulant des données
+$TDW$
+C46.1: Exploiter des feuilles de style et des langages de balisage et de script pour développer des sites web hergonomiques et répondants aux besoins
+C46.2: Exploiter des langages et bases de données pour développer des sites web dyanmiques
+$TPRO$
+C40.A: Mettre en oeuvre différents paradigmes de programmation
+C4A.1: Etudier les structures de données et de fichiers et analyser l’efficacité des algorithmes
+C4A.2: Etudier les classes de problèmes et les différents type de résolution de problèmes
+C4A.3: Etudier les paradigmes de programmation et les transformations de programmes
+$TSG$
+C24.1: Mettre en oeuvre les techniques et algorithme de traitement de signal
+$VCL$
+C79.1: Analyser la fonction de virtualisation des systèmes
+C79.2: Exploiter des plateformes de virtualisation
+C79.3: Exploiter des plateformes de Cloud computing

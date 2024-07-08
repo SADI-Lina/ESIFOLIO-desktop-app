@@ -1,0 +1,20 @@
+$PFE$
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+C81.1: Réaliser et présenter un bilan qualitatif selon des critères de : coût, sécurité, performances, fiabilité, satisfaction usager, déploiement
+C91.1: Respecter de la charte de rédaction du mémoire ( couverture, nombre de pages, plan, références bibliographiques,,,,,)
+C91.2: Equilibrer les chapitres du rapport
+C91.3: Présenter un sujet et la problématique et formuler les objectifs et hypothèses
+C91.4: Utliser une méthodologie et/ou des techniques dans les règles de l'art
+C91.5: Synthètiser et effectuer une analyse critique, et adopter une rigueur dans l'argumentation (étude quantitative)
+C91.6: Rédiger correctement (Synthèse, clarté, lisibilité, soins de l'orthographe et grammaire)
+C92.1: Planifier un projet (Diagramme Gantt prévu et réel)
+C92.2: Rédiger des livrables (résultats) intermédiaires et livrable final de qualité
+C92.3: Adopter une posture professionnelle (Assuiduité & sérieux)
+C93.1: Concevoir un système implémentant des fonctionnalités selon un cahier de charge
+C93.2: Développer une solution informatique (IHM / Jeu d'essai/ tests/ degré d'intégration/ documentation technique)
+C94.1: Respecter le temps alloué ( par diapo, global) et clarté de la présentation  (lisiblité, enchaînements, illustration, ... )
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.3: Valoriser le produit réalisé durant une démonstration
+C94.5: Répondre aux questions avec aisance et précision
+C94.6: Effectuer une communication orale de qualité (prononciation, articulation, volume, débit, intonation, posture, aisance, présence)

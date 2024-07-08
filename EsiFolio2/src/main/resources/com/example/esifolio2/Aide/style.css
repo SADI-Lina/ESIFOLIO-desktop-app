@@ -1,0 +1,83 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600&display=swap");
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Comfortaa", sans-serif;
+	color: #000000;
+}
+
+section {
+	min-height: 100vh;
+	width: 80%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	
+}
+
+.title {
+	font-size: 2rem;
+	margin: 2rem 0rem;
+	color: #6f39b6; 
+}
+
+.aide {
+	max-width: 700px;
+	margin-top: 2rem;
+	padding-bottom: 1rem;
+	border-bottom: 2px solid #000000;
+	cursor: pointer;
+	
+}
+
+.question {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.question h3 {
+	font-size: 1.1rem;
+}
+
+.reponse {
+	max-height: 0;
+	overflow: hidden;
+}
+
+.reponse p {
+	padding-top: 1rem;
+	line-height: 1.6;
+	font-size; 1.4rem;
+}
+
+.aide.active .reponse {
+	max-height: 300px;
+	animation: fade 1s ease-in-out;
+}
+
+.aide.active .fleche {
+	transform: rotate(180deg);
+}
+
+.fleche{
+	transition: transform 0.5s ease-in;
+}
+
+
+@keyframes fade {
+	from {
+		opacity: 0;
+		transform: translateY(-10p);
+	}
+	to {
+		opacity: 1;
+		transform: translateY(0px);
+	}
+}

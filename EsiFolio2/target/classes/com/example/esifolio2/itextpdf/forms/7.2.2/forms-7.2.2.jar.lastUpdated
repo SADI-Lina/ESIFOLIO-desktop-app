@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 23 22:03:46 GMT+01:00 2022
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1653339826832
+https\://repo.itextsupport.com/releases/.error=Could not transfer artifact com.itextpdf\:forms\:jar\:7.2.2 from/to itext-releases (https\://repo.itextsupport.com/releases)\: transfer failed for https\://repo.itextsupport.com/releases/com/itextpdf/forms/7.2.2/forms-7.2.2.jar
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.itextpdf\:forms\:jar\:7.2.2 from/to central (https\://repo.maven.apache.org/maven2)\: transfer failed for https\://repo.maven.apache.org/maven2/com/itextpdf/forms/7.2.2/forms-7.2.2.jar
+@default-itext-releases-https\://repo.itextsupport.com/releases/.lastUpdated=1653339780476

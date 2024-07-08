@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 24 01:03:19 GMT+01:00 2022
+html2pdf-4.0.2.pom>central=
+html2pdf-4.0.2.pom>itext-releases=
+html2pdf-4.0.2.jar>itext-releases=
+html2pdf-4.0.2.jar>central=

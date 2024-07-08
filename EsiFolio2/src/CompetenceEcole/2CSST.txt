@@ -1,0 +1,121 @@
+$AL$
+C41.4: Analyser et documenter l'architecture d'un logiciel
+C41.5: Proposer et mettre en œuvre une architecture à partir de styles architecturaux existants
+C41.6: Proposer et mettre en œuvre des architectures à base de services et de micro-services
+C41.7: Mettre en œuvre des modèles de déploiement tels que les conteneurs ou le cloud pour les architectures complexes
+$ANAD$
+C61.1: Analyser les techniques de description multidimensionnelle (réduction, visualisation, clustering,…)
+C61.2: Effectuer une modélisation statistique (régression, classification) sur une masse de données
+C63.1: Mobiliser les outils pour traiter les données et interpréter les résultats
+$AQUA$
+C82.1: Décrire une démarche qualité et identifier ses atouts pour l'entreprise
+C82.2: Adopter une démarche qualité et utiliser ses principaux outils
+C82.3: Décrire l’apport de la normalisation, la certification et l’accréditation pour l'entreprises
+$ASI$
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+C13.3: Analyser un cahier de charge
+C13.4: Mettre en oeuvre les techniques de collecte des besoins
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C34.1: Analyser et articuler les types de faisabilités
+C34.2: Elaborer un plan directeur informatique
+$AUSI$
+C32.8: Analyser la fonction d'audit et décrire une démarche d'audit d'un système d'information
+C32.9: Exploiter les outils et référentiels d'audit et porter un jugement objectif sur un système d'information
+$BDA$
+C51.5: Programmer avec le langage procédural SQL
+C51.7: Concevoir et mettre en oeuvre des bases de données multi-dimentionnelles
+C53.1: Concevoir et mettre en oeuvre des bases de données semi-structurées
+C53.2: Concevoir et mettre en oeuvre des bases de données non structurées
+$BDM$
+C62.1: Caractériser un système de grandes masses de données et décrire son environnement de développement
+C62.2: Décliner les activités d'un processus d'analyse de grandes masses de données (génération, acquisition, analyse,..)
+C61.3: Utiliser et développer des méthodes d'apprentissage automatique pour l'analyse de big data
+C63.2: Mobiliser des outils et technologies pour le dévloppement de projets de big data analytique
+$BI$
+C35.3: Concevoir et mettre en oeuvre des systèmes d'aide à la décision
+$COFI$
+C98.1: Identifier et analyser les documents comptables
+C98.2: Analyser l’activité et les résultats de son entreprise au quotidien, afin d’en tirer le maximum d’informations susceptible d'aider à la prise de décision
+C98.3: Exploiter les méthodes qui permettent d’optimiser la rentabilité des entreprises par une meilleure gestion des coûts et le calcul des écarts.
+$ENTP$
+C97.1: Adopter une posture entreprenarial
+C97.2: Exploiter des outils pour élaborer un projet d'entrepsie
+C97.3: Défendre un projet d'entreprise
+$FASI$
+C22.3: Exploiter la théorie de files d'attentes pour modéliser un système
+C22.4: Mettre en oeuvre la simulation d'un système
+$IHM$
+C48.1: Analyser et modéliser la fonction d'interaction homme-machine
+C48.2: Concevoir, développer et évaluer des interfaces homme-machine
+$IPLS$
+C72.2: Sécuriser un système informatique
+C72.1: Analyser les menaces et les vulnérabilités d'un système
+C72.5: Identifier des protocoles de communication sécurisée en réponse à une politique de sécurité
+C72.4: Exploiter des outils logiciels pour mettre en oeuvre des mécanismes de sécurité de données
+$MPSI$
+C96.1: Adopter une posture de leader et sponsor d'un projet
+C96.2: Mettre en oeuvre un plan de conduite de changement
+C96.3: Mettre en oeuvre un plan de communication
+C96.4: Analyser, concevoir et réaliser une formation pour des adultes
+C96.5: Résoudre les conflits
+$MSSI$
+C72.1: Analyser les menaces et les vulnérabilités d'un système
+C72.7: Organiser la sécurité d'un système d'information au sein de l'entreprise
+C72.8: Exploiter des outils d'analyse de risques de sécuirté informatique
+C72.9: Définir une politique de sécurité
+$PGI$
+C37.1: Analyser l'intégration de systèmes d'information de gestion
+C37.2: Identifier et modéliser des processus métiers
+C37.3: Elaborer des solutions d’intégration à travers les technologies d’ERP et d’EAI
+C37.4: Mettre en relief les bénéfices et les freins qui peuvent se présenter à l'intégration des systèmes d'information de gestion
+$PRJS$
+C11.1: Exploiter un formalisme de rédaction de spécifications fonctionelles et techniques
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+C13.3: Analyser un cahier de charge
+C13.4: Mettre en oeuvre les techniques de collecte des besoins
+C34.1: Analyser et articuler les types de faisabilités
+C92.1: Planifier un projet (Diagramme Gantt prévu et réel)
+C92.2: Rédiger des livrables (résultats) intermédiaires et livrable final de qualité
+C92.3: Adopter une posture professionnelle (Assuiduité & sérieux)
+C92.5: Planifier des plans de secours afin de prendre en charge les risques entourant un projet
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.3: Valoriser le produit réalisé durant une démonstration
+C42.6: Mettre en oeuvre les tests unitaires et d'intégration d'un logiciel
+C42.7: Mettre en œuvre les tests fonctionnels pour la qualité des logiciels
+$PYT$
+C40.5: Traduire un algorithme dans un langage de programmation et le commenter
+$SIAD$
+C35.1: Analyser les modèles sous-jacents aux systèmes d'information d'aide à la décision
+C35.2: Exploiter les méthodes et outils d'aide à la décision
+$SIC$
+C36.2: Mettre en oeuvre, déployer et utiliser des systèmes d'information coopératifs en entreprise
+C36.1: Analyser le travail coopératif et identifier les TIC contribuant à l'avantage coopératif
+$SIG$
+C33.1: Effectuer une analyse spaciale des données géographiques
+C33.2: Mettre en oeuvre l’acquisition, l’organisation et le stockage des images spatiales, satellitaires ou collectées sur le terrain.
+C33.3: Modéliser les données géo-spatiales en 2D et 3D pour l’aide à la décision
+$SPE$
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.5: Répondre aux questions avec aisance et précision
+C91.6: Rédiger correctement (Synthèse, clarté, lisibilité, soins de l'orthographe et grammaire)
+$TDM$
+C47.1: Analyser un système d'exploitation mobile et son environnement de développement
+C47.2: Exploiter un langage de programmation pour le développement d'une application mobile
+C47.3: Concevoir et implémenter une application mobile interactive et multimédias
+C47.4: Concevoir et implémenter une application mobile manipulant des données
+$TDW$
+C46.1: Exploiter des feuilles de style et des langages de balisage et de script pour développer des sites web hergonomiques et répondants aux besoins
+C46.2: Exploiter des langages et bases de données pour développer des sites web dyanmiques
+$TICO$
+C32.3: Enumérer les principaux impacts des TIC/ numérique sur les organisations
+C32.4: Utiliser une démarche d'analyse stratégique appliquée aux TIC
+C32.5: Enumérer et comparer les principaux scénarii de structuration des TIC dans une organisation
+C32.6: Décrire les principaux indicateurs du tableau de bord du DSI
+C32.7: Rattacher les référentiels de ITGovernance aux différentes activités de la DSI
+$URSI$
+C32.1: Analyser un système d'information selon une démarche systémique
+C32.3: Enumérer les principaux impacts des TIC/ numérique sur les organisations
+C37.2: Identifier et modéliser des processus métiers
+C37.5: Mettre en oeuvre un projet d'urbanisation d'un système d'information

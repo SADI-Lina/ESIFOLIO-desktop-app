@@ -1,0 +1,42 @@
+.tab-pane > .tab-header-area > .headers-region > .tab:top {
+    -fx-border-color: #6F39B6;
+    -fx-border-radius: 7 7 0 0;
+    -fx-background-color: white;
+    -fx-pref-height: 40px;
+    -fx-pref-width: 200px;
+    -fx-background-insets: 0;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab:selected:top {
+    -fx-border-color: #6F39B6;
+    -fx-border-width: 3 1 1 1;
+    -fx-border-radius: 7 7 0 0;
+    -fx-background-color: white;
+    -fx-pref-height: 40px;
+    -fx-pref-width: 200px;
+    -fx-background-insets: 0;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab:selected > .tab-container > .tab-label {
+    -fx-pref-width: 185px;
+    -fx-alignment: CENTER;
+    -fx-text-fill: black;
+    -fx-font-family: 'Comfortaa SemiBold';
+    -fx-font-size: 15px;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab > .tab-container > .tab-label {
+    -fx-pref-width: 185px;
+    -fx-alignment: CENTER;
+    -fx-text-fill: black;
+    -fx-font-family: 'Comfortaa SemiBold';
+    -fx-font-size: 15px;
+}
+
+.tab-pane > .tab-header-area > .tab-header-background {
+    -fx-background-color: white;
+    -fx-border-color: #6F39B6;
+    -fx-border-width: 0 0 1 0;
+    -fx-pref-height: 45px;
+    -fx-background-insets: 0;
+}

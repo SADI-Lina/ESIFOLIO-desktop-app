@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<HBox prefHeight="600.0" prefWidth="900.0" style="-fx-background-color: WHITE;" stylesheets="@app.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.esifolio2.ContactezNousControleur">
+   <VBox alignment="TOP_CENTER" maxWidth="-Infinity" minWidth="-Infinity" prefHeight="550.0" prefWidth="240.0">
+      <VBox prefHeight="30.0" prefWidth="240.0" />
+      <HBox alignment="CENTER" prefHeight="42.0" prefWidth="240.0">
+         <Label onMouseClicked="#goToAccueil" text="ESI">
+            <font>
+               <Font name="Ailerons" size="40.0" />
+            </font>
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+         </Label>
+         <HBox prefHeight="58.0" prefWidth="10.0" />
+         <Label onMouseClicked="#goToAccueil" text="FOLIO">
+            <font>
+               <Font name="Ailerons" size="40.0" />
+            </font>
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+         </Label>
+      </HBox>
+      <Line endX="80.0" startX="-80.0" stroke="#6f39b6" />
+      <VBox prefHeight="45.0" prefWidth="240.0" />
+      <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+         <VBox prefHeight="200.0" prefWidth="40.0" />
+         <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToProjets">
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+            <Image url="@images/IconeProjet.png" />
+         </ImageView>
+         <HBox prefHeight="20.0" prefWidth="12.0" />
+         <Label onMouseClicked="#goToProjets" text="Projets">
+            <font>
+               <Font name="Comfortaa Medium" size="18.0" />
+            </font>
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+         </Label>
+      </HBox>
+      <VBox prefHeight="22.0" prefWidth="240.0" />
+      <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+         <VBox prefHeight="200.0" prefWidth="40.0" />
+         <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToCompetences">
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+            <Image url="@images/IconeCompétences.png" />
+         </ImageView>
+         <HBox prefHeight="20.0" prefWidth="12.0" />
+         <Label onMouseClicked="#goToCompetences" text="Compétences">
+            <font>
+               <Font name="Comfortaa Medium" size="18.0" />
+            </font>
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+         </Label>
+      </HBox>
+      <VBox prefHeight="22.0" prefWidth="240.0" />
+      <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+         <VBox prefHeight="200.0" prefWidth="40.0" />
+         <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToPortfolio">
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+            <Image url="@images/IconePortfolio.png" />
+         </ImageView>
+         <HBox prefHeight="20.0" prefWidth="12.0" />
+         <Label onMouseClicked="#goToPortfolio" text="Portfolio">
+            <font>
+               <Font name="Comfortaa Medium" size="18.0" />
+            </font>
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+         </Label>
+      </HBox>
+      <VBox prefHeight="22.0" prefWidth="240.0" />
+      <HBox alignment="CENTER_LEFT" prefHeight="32.0" prefWidth="240.0">
+         <VBox prefHeight="200.0" prefWidth="40.0" />
+         <ImageView fitHeight="20.0" fitWidth="23.0" onMouseClicked="#goToStats">
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+            <Image url="@images/IconeStat.png" />
+         </ImageView>
+         <HBox prefHeight="20.0" prefWidth="12.0" />
+         <Label onMouseClicked="#goToStats" text="Statistiques">
+            <font>
+               <Font name="Comfortaa Medium" size="18.0" />
+            </font>
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+         </Label>
+      </HBox>
+      <VBox prefHeight="212.0" prefWidth="240.0" />
+      <Label onMouseClicked="#goToContactezNous" text="Contactez-nous" textFill="#777777">
+         <font>
+            <Font name="Comfortaa SemiBold" size="16.0" />
+         </font>
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor>
+      </Label>
+      <VBox prefHeight="30.0" prefWidth="240.0" />
+   </VBox>
+   <Line startY="600.0" stroke="#ababab" />
+   <VBox prefHeight="200.0" prefWidth="660.0">
+      <VBox maxHeight="-Infinity" minHeight="-Infinity" prefHeight="28.0" prefWidth="660.0" />
+      <HBox alignment="CENTER_RIGHT" spacing="20.0">
+         <padding>
+            <Insets right="40.0" />
+         </padding>
+         <Label fx:id="nomPrenoms" onMouseClicked="#goToModifierInfo" text="Nom Prénoms" textFill="#777777">
+            <font>
+               <Font name="Comfortaa SemiBold" size="18.0" />
+            </font>
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+         </Label>
+         <ImageView fitHeight="58.0" fitWidth="56.0" onMouseClicked="#goToModifierInfo">
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+            <Image url="@images/Profile.png" />
+         </ImageView>
+      </HBox>
+      <VBox alignment="TOP_CENTER" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="452.0" prefWidth="660.0">
+         <VBox alignment="CENTER_LEFT" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="40.0" prefWidth="660.0">
+            <Label text="Contactez-nous" textFill="#6f39b6">
+               <font>
+                  <Font name="Comfortaa Bold" size="25.0" />
+               </font>
+               <VBox.margin>
+                  <Insets bottom="10.0" left="30.0" right="10.0" top="10.0" />
+               </VBox.margin>
+            </Label>
+         </VBox>
+         <HBox maxHeight="-Infinity" minHeight="-Infinity" prefHeight="370.0" prefWidth="659.0" spacing="20.0">
+            <padding>
+               <Insets left="9.0" right="9.0" top="10.0" />
+            </padding>
+            <VBox alignment="TOP_CENTER" prefHeight="392.0" prefWidth="378.0">
+               <padding>
+                  <Insets left="20.0" right="20.0" top="10.0" />
+               </padding>
+               <VBox layoutX="10.0" layoutY="74.0" prefHeight="29.0" prefWidth="328.0" spacing="10.0">
+                  <padding>
+                     <Insets top="5.0" />
+                  </padding>
+                  <Label text="Nom et prénoms">
+                     <font>
+                        <Font name="Comfortaa Regular" size="18.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="nom" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="35.0" prefWidth="292.0" promptText="Nom et prénoms" style="-fx-background-color: #fafafa; -fx-border-color: #6F39B6; -fx-border-width: 1.5; -fx-border-radius: 7;">
+                     <font>
+                        <Font name="Comfortaa Regular" size="16.0" />
+                     </font>
+                  </TextField>
+               </VBox>
+               <VBox layoutX="10.0" layoutY="289.0" prefHeight="15.0" prefWidth="310.0" />
+               <VBox layoutX="30.0" layoutY="64.0" prefHeight="29.0" prefWidth="328.0" spacing="10.0">
+                  <padding>
+                     <Insets top="5.0" />
+                  </padding>
+                  <Label text="E-mail">
+                     <font>
+                        <Font name="Comfortaa Regular" size="18.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="mail" maxHeight="-Infinity" minHeight="-Infinity" prefHeight="35.0" promptText="Adresse mail" style="-fx-background-color: #fafafa; -fx-border-color: #6F39B6; -fx-border-width: 1.5; -fx-border-radius: 7;">
+                     <font>
+                        <Font name="Comfortaa Regular" size="16.0" />
+                     </font>
+                  </TextField>
+               </VBox>
+               <VBox prefHeight="15.0" prefWidth="310.0" />
+               <VBox layoutX="30.0" layoutY="147.0" prefHeight="146.0" prefWidth="329.0" spacing="10.0">
+                  <padding>
+                     <Insets top="5.0" />
+                  </padding>
+                  <Label text="Message">
+                     <font>
+                        <Font name="Comfortaa Regular" size="18.0" />
+                     </font>
+                  </Label>
+                  <TextArea fx:id="message" prefHeight="117.0" prefWidth="329.0" promptText="Message" style="-fx-background-color: #fafafa; -fx-border-color: #6F39B6; -fx-border-radius: 7; -fx-border-width: 1.5; -fx-padding: 0 0 0 0;">
+                     <font>
+                        <Font name="Comfortaa Regular" size="16.0" />
+                     </font>
+                  </TextArea>
+               </VBox>
+               <VBox layoutX="30.0" layoutY="106.0" prefHeight="15.0" prefWidth="329.0" />
+               <Button fx:id="boutonEnvoyer" alignment="CENTER" mnemonicParsing="false" onAction="#envoyerClicked" onMouseEntered="#envoyerSurvol" onMouseExited="#envoyerMouseExited" onMousePressed="#envoyerPressed" prefHeight="30.0" prefWidth="250.0" style="-fx-background-color: #6F39B6; -fx-background-radius: 8;" text="Envoyer" textFill="WHITE">
+                  <font>
+                     <Font name="Comfortaa Medium" size="16.0" />
+                  </font>
+                  <cursor>
+                     <Cursor fx:constant="HAND" />
+                  </cursor>
+               </Button>
+            </VBox>
+            <VBox alignment="TOP_CENTER" layoutX="19.0" layoutY="10.0" prefHeight="392.0" prefWidth="263.0">
+               <VBox prefHeight="23.0" prefWidth="253.0" />
+               <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
+                  <Image url="@images/Contact.png" />
+               </ImageView>
+               <VBox layoutX="10.0" layoutY="10.0" prefHeight="15.0" prefWidth="310.0" />
+               <VBox layoutX="10.0" layoutY="74.0" prefHeight="0.0" prefWidth="253.0" />
+               <VBox layoutX="10.0" layoutY="289.0" prefHeight="71.0" prefWidth="253.0">
+                  <opaqueInsets>
+                     <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
+                  </opaqueInsets>
+                  <padding>
+                     <Insets bottom="20.0" left="20.0" right="20.0" top="10.0" />
+                  </padding>
+                  <Label alignment="CENTER" text="Contact" textFill="#6f39b6">
+                     <font>
+                        <Font name="Comfortaa Bold" size="16.0" />
+                     </font>
+                  </Label>
+                  <VBox prefHeight="25.0" prefWidth="213.0" />
+                  <Label text="contactesifolio@yahoo.com">
+                     <font>
+                        <Font name="Comfortaa Medium" size="14.0" />
+                     </font>
+                  </Label>
+               </VBox>
+            </VBox>
+         </HBox>
+         <padding>
+            <Insets top="10.0" />
+         </padding>
+      </VBox>
+      <VBox alignment="CENTER_RIGHT" prefHeight="30.0" prefWidth="660.0">
+         <padding>
+            <Insets right="30.0" />
+         </padding>
+         <ImageView fitHeight="33.0" fitWidth="33.0" onMouseClicked="#goToAide">
+            <cursor>
+               <Cursor fx:constant="HAND" />
+            </cursor>
+            <Image url="@images/Aide.png" />
+         </ImageView>
+      </VBox>
+      <VBox maxHeight="-Infinity" minHeight="-Infinity" prefHeight="29.0" prefWidth="660.0" />
+   </VBox>
+</HBox>

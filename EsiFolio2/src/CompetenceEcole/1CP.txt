@@ -1,0 +1,68 @@
+$ALG1$
+C21.4: Identifier et analyser des structures algébriques
+C21.5: Analyser un polynôme à une indéterminée à coefficients dans un anneau
+$ALG2$
+C21.8: Exploiter l'algèbre linéaire et calcul matriciel dans la méodélisation et résolution de problèmes
+$ALSDD$
+C40.6: Confectionner un dossier technique de programmation
+C40.5: Traduire un algorithme dans un langage de programmation et le commenter
+C40.4: Proposer un découpage modulaire en procédures et/ou fonctions et le justifier
+C40.2: Identifier les structures algorithmiques statiques et dynamiques adéquate pour construire un algorithme à partir de l’analyse d’un problème
+C40.3: Déboguer un programme et vérifier un algorithme
+C4A.1: Etudier les structures de données et de fichiers et analyser l’efficacité des algorithmes
+$ALSDS$
+C40.6: Confectionner un dossier technique de programmation
+C40.5: Traduire un algorithme dans un langage de programmation et le commenter
+C40.1: Construire une analyse à partir de l’énoncé d’un problème
+C40.4: Proposer un découpage modulaire en procédures et/ou fonctions et le justifier
+C40.2: Identifier les structures algorithmiques statiques et dynamiques adéquate pour construire un algorithme à partir de l’analyse d’un problème
+C40.3: Déboguer un programme et vérifier un algorithme
+$ANAL1$
+C21.3: Analyser une fonction réelle à une variable réelle
+$ANAL2$
+C21.6: Développer en séries entières des fonctions usuelles de l’analyse dans le but de mettre en œuvre des algorithmes d’approximation des nombres
+C21.7: Utiliser des méthodes de résolution des EDO
+$ANG1$
+C95.1: Acquérir le vocabulaire de l`anglais spécifique à l`informatique
+C95.4: Ecrire en anglais dans un style académique
+C95.5: Ecouter et inférer le sens d'un discours en anglais
+C95.6: S’exprimer correctement, en considérant le niveau de maitrise de la langue
+$ARCH1$
+C73.4: Analyser les composants d'un ordinateur et leurs fonctions
+C73.2: Exploiter les méthodes de synthèse de systèmes logiques combinatoires et séquentiels
+C73.1: Ecrire les nombres dans différentes représentations et effectuer des calculs selon une algèbre
+C73.3: Concevoir des circuits combinatoires et séquentiels
+$BW$
+C99.1: Effectuer une communication par e-mail et gérer efficacement sa messagerie.
+C99.2: Utiliser efficacement les outils de recherche d’information pertinente (collecte, tri) devant l’hétérogénéité des sources documentaires
+C99.3: Utiliser efficacement les outils de la bureautique (Word, Powerpoint, Excel,..)
+$ELECT$
+C23.1: Déterminer le courant et la tension dans un circuit électrique comprenant des sources de tension continue, des condensateurs et des résistances,
+C23.2: Déterminer le courant et la tension dans un circuit en régime alternatif
+C23.3: Déterminer les caractéristiques d’un circuit par la représentation quadripolaire
+C23.4: Réaliser une analyse et un tracé du diagramme Bode
+$ELEF1$
+C23.5: Interprêter le principe de la conduction dans les semi-conducteurs et dans les jonctions PN
+C23.6: Identifier les caractéristiques de fonctionnements des composants électroniques (diodes, transistors bipolaires, transistors à effet de champ)
+C23.7: Utiliser des composants électroniques dans des applications concrètes : redressement, écrêtages, stabilisations, amplifications, commutations, portes logiques..
+$MECA$
+C25.1: Enumérer les hypothèses de la mécanique classique
+C25.2: Identifier un objet assimilable à un point matériel
+C25.3: Formaliser le mouvement d'un point matériel dans différents systèmes de coordonnées
+C25.4: Calculer les vitesses et accélérations d'un mobile pour une trajectoire quelconque
+C25.5: Formaliser des actions extérieures s'exerçant sur un point matériel
+C25.6: Ecrire et résoudre des équations de la dynamique régissant le mouvement d'un point matériel
+$SYST1$
+C77.1: Analyser les fonctions d'un systèmes d'exploitation
+C77.4: Installer et utiliser un système d'exploitation centralisé de type UNIX
+$SYST2$
+C77.7: Analyser l'exécution d'un programme en langage machine sur une architecture de Von Neumann
+C77.5: Ecrire des programmes en langage assembleur
+$TEE$
+C91.6: Rédiger correctement (Synthèse, clarté, lisibilité, soins de l'orthographe et grammaire)
+$TEO$
+C94.4: Adapter la force de la voix, le regard et la posture dans une communication
+C94.7: Adapter la communication à l'auditoire
+C94.8: Gérer le stress
+C94.9: Effectuer une communication verbale et non-verbale
+C94.6: Effectuer une communication orale de qualité (prononciation, articulation, volume, débit, intonation, posture, aisance, présence)

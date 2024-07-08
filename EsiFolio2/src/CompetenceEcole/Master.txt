@@ -1,0 +1,45 @@
+$EMM$
+C90.1: Exploiter des outils de recherche bibliographique
+C90.10: Mettre en oeuvre un travail de recherche selon une méthodologie
+C90.6: Elaborer une bibliographie en respectant une norme de citation
+C90.9: Effectuer une communication scientifique orale
+C91.5: Synthètiser et effectuer une analyse critique, et adopter une rigueur dans l'argumentation (étude quantitative)
+C91.6: Rédiger correctement (Synthèse, clarté, lisibilité, soins de l'orthographe et grammaire)
+C91.2: Equilibrer les chapitres du rapport
+C91.3: Présenter un sujet et la problématique et formuler les objectifs et hypothèses
+C94.5: Répondre aux questions avec aisance et précision
+C94.2: Synthètiser les éléments principaux/essentiels/importants dans une présentation
+C94.6: Effectuer une communication orale de qualité (prononciation, articulation, volume, débit, intonation, posture, aisance, présence)
+C99.3: Utiliser efficacement les outils de la bureautique (Word, Powerpoint, Excel,..)
+C99.4: Elaborer un support de communication synthétique et pertinent
+C99.5: Elaborer un support de communication bien organisé
+C99.6: Mettre en oeuvre un support de communication avec un visuel clair
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+$GPS$
+C13.3: Analyser un cahier de charge
+C13.1: Identifier un contexte, identifier une problématique, et déterminer des objectifs
+C13.2: Effectuer une analyse de l'existant et/ou une étude bibliographique
+C90.1: Exploiter des outils de recherche bibliographique
+C90.10: Mettre en oeuvre un travail de recherche selon une méthodologie
+C90.6: Elaborer une bibliographie en respectant une norme de citation
+C90.7: Effectuer une recherche dans des ressources documentaires diverses
+C90.8: Rédiger un article en adoptant un style scientifique et académique
+C92.6: S'organiser et travailler en équipe en vue de réaliser un projet commun
+C92.1: Planifier un projet (Diagramme Gantt prévu et réel)
+C92.4: Exploiter un outil de gestion de projet afin de quantifier les ressources en temps, matériels, moyens humains et en financement
+C92.5: Planifier des plans de secours afin de prendre en charge les risques entourant un projet
+$IMR$
+C90.4: Effectuer une synthèse bibliographique et ressortir des verrous scientifiques
+C90.5: Respecter des pratiques éthiques durant un travail de recherche
+C90.10: Mettre en oeuvre un travail de recherche selon une méthodologie
+$IVR$
+C90.0: Définir la propriété intellectuelle et identifier les mécanismes de sa protection
+C90.2: Analyser le processus d'innovation, de recherche et développement, et de valorisation
+C90.3: Identifier les voies de valorisation de travaux de recherche
+$RDCR$
+C90.1: Exploiter des outils de recherche bibliographique
+C90.6: Elaborer une bibliographie en respectant une norme de citation
+C90.7: Effectuer une recherche dans des ressources documentaires diverses
+C90.8: Rédiger un article en adoptant un style scientifique et académique
+C90.9: Effectuer une communication scientifique orale
